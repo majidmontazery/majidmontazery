@@ -1,6 +1,6 @@
 Hi
 My name's Majid 
-I'm a program developer and penetration tester(python,java). 
+I've been a program developer and penetration tester(python,java) for over 8 years. 
 I'd like to share my own knowledge and experience with others. 
 I'd like to learn from others.
 beside
